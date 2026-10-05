@@ -1,0 +1,6 @@
+{
+  "scp096.anger": { "category": "hostile", "sounds": [ { "name": "scp096port:scp096/anger", "stream": true } ] },
+  "scp096.cry":   { "category": "hostile", "sounds": [ "scp096port:scp096/cry" ] },
+  "scp096.chase": { "category": "hostile", "sounds": [ "scp096port:scp096/chase" ] },
+  "scp096.grunt": { "category": "hostile", "sounds": [ "scp096port:scp096/grunt" ] }
+}

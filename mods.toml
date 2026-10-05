@@ -1,0 +1,23 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="Personal-use port. Textures/sounds/model data belong to the SCP: Lockdown authors."
+
+[[mods]]
+modId="scp096port"
+version="1.0.0"
+displayName="SCP-096 Port (SCP: Lockdown 1.12.2 -> 1.20.1)"
+description='''SCP-096 "Shy Guy" ported from SCP: Lockdown 2.4.3 (1.12.2): model, textures, sounds and behaviour.'''
+
+[[dependencies.scp096port]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.scp096port]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"

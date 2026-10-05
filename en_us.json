@@ -1,0 +1,8 @@
+{
+  "entity.scp096port.scp096": "SCP-096",
+  "item.scp096port.scp096_spawn_egg": "SCP-096 Spawn Egg",
+  "subtitles.scp096port.scp096.anger": "SCP-096 screams",
+  "subtitles.scp096port.scp096.cry": "SCP-096 sobs",
+  "subtitles.scp096port.scp096.chase": "SCP-096 rages",
+  "subtitles.scp096port.scp096.grunt": "SCP-096 grunts"
+}
